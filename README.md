@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Researcher+%26+Full+Stack+Developer;Cybersecurity+%26+VAPT+Specialist;Oracle+Cloud+Certified+Professional;BSc+Computer+Systems+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Systems+Engineer;Full+Stack+Developer;Cybersecurity+%26+VAPT+Specialist;Cloud+%26+DevOps+Explorer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,16 +17,22 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Hi, I'm Biplove Yadav
 
-I'm a 19-year-old final-year **Computer Systems Engineering** student with a passion for building intelligent systems, securing applications, and automating cloud workflows. I specialize in AI research, full-stack development, and cybersecurity, with hands-on experience deploying production-ready solutions.
+🎓 Final-Year **BSc (Hons) Computer Systems Engineering**  
+🏫 University of Sunderland (ISMT, Nepal)
 
-- 🔭 Currently working on a **25-Day AI Challenge** — building 25 different AI projects locally using DeepSeek AI  
-- 💻 Developing a fully local **Automated Content Engine** utilizing Ollama, ComfyUI, and MoviePy  
-- 🛡️ Active in **Bug Bounty Programs** and performing **Vulnerability Assessments & Penetration Testing (VAPT)**  
-- ☁️ Oracle Cloud Infrastructure (OCI) Certified across 8+ domains including DevOps, AI, and Data Science  
-- 📈 Beyond code, I enjoy vlogging and analyzing investments in the **Nepal Stock Exchange (NEPSE)**  
-- 🌍 Planning to pursue a **Master's degree in Germany** after graduation  
+I build **production-ready AI systems, scalable web platforms, and secure cloud infrastructure**.
+
+**Focus areas:**
+
+- 🤖 Applied AI & LLM Engineering  
+- 🧠 RAG Systems & Vector Databases  
+- 🌐 Full-Stack Architecture (Next.js + FastAPI/Node)  
+- ☁️ Cloud & DevOps (OCI, Azure, Docker, Kubernetes)  
+- 🛡️ Cybersecurity & VAPT  
+
+I don’t just build apps — I architect intelligent ecosystems.
 
 ---
 
@@ -41,7 +47,16 @@ I'm a 19-year-old final-year **Computer Systems Engineering** student with a pas
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
+
+### 🔝 Top Skills (Snapshot)
+
+- AI & LLM Engineering (RAG, vector search, transformers)  
+- Full-Stack Web (Next.js, React, Node.js, FastAPI)  
+- Cloud & DevOps (Oracle Cloud, Azure, Docker, Kubernetes, CI/CD)  
+- Cybersecurity & VAPT (Nmap, Nessus, OpenVAS, Burp Suite)  
+- Data & Databases (PostgreSQL, MongoDB, Supabase)  
+- Networking (CCNA-level routing, switching, VLANs)
 
 ### 🧩 Languages & Frameworks
 
@@ -74,7 +89,7 @@ I'm a 19-year-old final-year **Computer Systems Engineering** student with a pas
 
 ---
 
-## 🛠️ Core Expertise
+## 🧠 Core Expertise
 
 ### 🤖 AI & Machine Learning
 - LLM Pre-training & Transformer Architectures (Gemma, DeepSeek)  
@@ -112,80 +127,61 @@ I'm a 19-year-old final-year **Computer Systems Engineering** student with a pas
 
 ---
 
-## 🏗️ Featured Projects
+## 🔥 Featured Projects
 
-### 🚀 25-Day DeepSeek AI Challenge
-**Dec 16, 2025 – Jan 10, 2026**
+### 🧬 Memoria — AI Story Continuation Platform
 
-Developed and deployed **25 unique AI applications** in 25 consecutive days, including:  
-- RAG-based document analyzers  
-- Automated resume generators  
-- Local AI agents with workflow automation  
-- Integrated n8n for connecting LLMs to external APIs for real-time incident response and web scraping  
+AI-powered platform preserving bedtime stories across generations.
 
-**Tech Stack:** DeepSeek AI, Ollama, ChromaDB, n8n, Python, FastAPI  
+- FastAPI backend + ChromaDB memory  
+- GPT-based transcription & theme analysis  
+- Next.js + Tailwind frontend  
+- Persistent AI memory architecture  
 
----
-
-### 🏆 Sankat Sanket (3rd Place - Hackathon Winner)
-**Nov 7-10, 2025**
-
-A real-time **emergency incident response platform** designed to rapidly connect users in distress with emergency services and community responders.
-
-**Key Features:**
-- Full-stack application with mobile app and web dashboard  
-- Live incident reporting and mapping using Open Street Map API  
-- Geographic proximity-based alert system for registered responders  
-- Built and deployed within 48 hours  
-- Secured **3rd place out of 20 teams** for social impact and technical innovation  
-
-**Tech Stack:** React, TypeScript, Node.js, MongoDB, Open Street Map API  
+**Tech Stack:** FastAPI, ChromaDB, GPT-5 API, Next.js, React, Tailwind CSS  
+**Repo:** [github.com/cfsage/memoria](https://github.com/cfsage/memoria)
 
 ---
 
-### 🤖 RAG-Based Order Processing Chatbot
-**Nov 15-20, 2025**
+### 🚨 Sankat Sanket — Real-Time Emergency Response
 
-Built a **Retrieval-Augmented Generation (RAG) chatbot** to handle product queries and automate order placement.
+🏆 **3rd Place Hackathon Winner** (ISMT Hackathon)
 
-**Key Features:**
-- Semantic search using Qdrant for product and inventory data retrieval  
-- Automated workflows in n8n to validate orders and store them in PostgreSQL  
-- Real-time transaction logging in Google Sheets  
-- End-to-end automation sending confirmed orders directly to sellers via API/email triggers  
+- React + Node.js + MongoDB  
+- Geo-proximity alert engine  
+- Real-time coordination system  
+- Built in 48 hours  
+
+**Tech Stack:** React, TypeScript, Node.js, MongoDB, OpenStreetMap API  
+
+---
+
+### 🤖 RAG-Based Order Automation Chatbot
+
+- Qdrant semantic search  
+- n8n workflow automation  
+- End-to-end LLM order pipeline  
+- Orders logged to PostgreSQL + Google Sheets and sent via API/email  
 
 **Tech Stack:** Python, Qdrant, n8n, PostgreSQL, Google Sheets API  
 
 ---
 
-### 📖 Memoria: Bedtime Stories Across Generations
-
-An AI-powered platform to **preserve, share, and continue bedtime stories** across generations.
-
-**Key Features:**
-- Audio transcription and story analysis using GPT-5 API  
-- ChromaDB vector database for semantic story search  
-- FastAPI backend with modern Next.js frontend  
-- Interactive chat allowing users to query or continue stories  
-- Public story library with audio recording/upload functionality  
-
-**Tech Stack:** FastAPI, ChromaDB, GPT-5 API, Next.js, React, Tailwind CSS  
-
-**[GitHub Repository](https://github.com/cfsage/memoria.git)**  
-
----
-
 ### 🚖 Ride/Taxi Booking Management System
 
-Developed comprehensive backend logic with **advanced database queries and triggers** for a full-featured booking platform.
+- Advanced PostgreSQL schema with triggers  
+- RESTful API for booking management  
+- Real-time availability logic  
 
 **Tech Stack:** Node.js, Express.js, PostgreSQL  
 
 ---
 
-### 💼 Corporate AI Chatbot for Laba Pvt. Ltd.
+### 💼 Corporate AI Chatbot (Laba Pvt. Ltd.)
 
-Built a custom **AI-powered chatbot solution** for corporate customer support and internal operations.
+- AI chatbot for corporate customer support  
+- Integrated with internal data sources  
+- Multi-channel deployment model  
 
 **Tech Stack:** Python, NLP, FastAPI, React  
 
@@ -197,23 +193,16 @@ Built a custom **AI-powered chatbot solution** for corporate customer support an
 **Dec 2025 – Dec 2025** | On-Site  
 
 - Delivered on-site **security assessment services** to **6 distinct enterprise clients**  
-- Executed **VAPT engagements across 200+ endpoints** using Nmap, Nessus, and OpenVAS  
+- Executed **VAPT engagements across 200+ endpoints** (Nmap, Nessus, OpenVAS)  
 - Identified and categorized **20+ critical-to-low vulnerabilities**  
-- Conducted **Information Systems (IS) audits** for 6 organizations against ISO/NIST standards  
-- Authored **6 comprehensive security assessment reports** with actionable remediation steps  
+- Performed **IS audits** aligned with ISO/NIST  
+- Authored **6 detailed security assessment reports**  
 
 ### 🎬 ViewFinders Production — *Jr. Video Editor*  
-**Apr 2024 - Jul 2024** | Part-Time  
-
-- Edited promotional videos and social media content  
-- Collaborated with creative team on video production workflows  
+**Apr 2024 – Jul 2024** | Part-Time  
 
 ### 🎨 Mudita Store — *Web Developer & Graphics Designer*  
-**2022 - 2023** | Full-Time  
-
-- Developed and maintained e-commerce website  
-- Created marketing materials and brand identity designs  
-- Managed product listings and inventory systems  
+**2022 – 2023** | Full-Time  
 
 ---
 
@@ -274,46 +263,49 @@ Built a custom **AI-powered chatbot solution** for corporate customer support an
 
 - 🏆 **2nd Runner-Up (3rd Place)** for *Sankat Sanket* emergency response platform out of 20 teams  
 - 🎓 **Gemini Certified University Student** & **Gemini Certified Educator**  
-- 🔒 Reported **Broken Access Control, SEO Spamming, Email Spoofing** to The London College, Stamford College, and ISMT  
-- 🛡️ Performed **VAPT & IS Audits** for 6 enterprise clients (200+ endpoints tested, 20+ vulnerabilities identified)  
+- 🔒 Reported **Broken Access Control, SEO Spamming, Email Spoofing** issues to The London College, Stamford College, and ISMT  
+- 🛡️ Performed **VAPT & IS Audits** for 6 enterprise clients (200+ endpoints, 20+ vulnerabilities)  
 
 ---
 
 ## 🧑‍🤝‍🧑 Community Engagement & Leadership
 
 - 🎮 Organized **ISMT PUBG Mobile Showdown 2025** (66 teams, 330+ participants)  
-- 🏆 Built top-3 full-stack emergency response system at **ISMT Hackathon 2.0**  
-- 🎪 Exhibitor at **ISMT EXPO 2.0** with project “TI – SCHOOL”  
+- 🏆 Built top‑3 full‑stack emergency response system at **ISMT Hackathon 2.0**  
+- 🎪 Exhibitor at **ISMT EXPO 2.0** with project “TI–SCHOOL”  
 - ⚽ Event coordinator for **Inter-College Futsal Tournament** at National Sports Centre, Chyasal  
 - 💡 Participant in **Entrepreneurship Workshop** at Himalayan Whitehouse International College  
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cfsage&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cfsage&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfsage&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cfsage&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="48%" />
-</div>
+</p>
 
 ---
 
-## 🐍 Contribution Snake Game
+## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://github.com/cfsage/cfsage/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</div>
+<!-- Requires Platane/snk workflow configured in this repo -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cfsage/cfsage/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cfsage/cfsage/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/cfsage/cfsage/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
 ## 📬 Let's Connect!
 
-I'm always open to collaborating on innovative projects, discussing AI research, cloud infrastructure, or cybersecurity. Feel free to reach out!
+I'm always open to collaborating on AI, cloud infrastructure, and security‑focused projects.
 
 <p align="center">
   <a href="mailto:yadavbiplove22@gmail.com">
@@ -321,18 +313,10 @@ I'm always open to collaborating on innovative projects, discussing AI research,
   </a>
 </p>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cfsage&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</div>
-
 <p align="center">
-  <i>"Building the future, one line of code at a time."</i> 💻✨
+  <img src="https://komarev.com/ghpvc/?username=cfsage&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Thank You" width="30" />
-  <br>
-  <b>Thanks for visiting!</b>
-</div>
+<p align="center">
+  <i>"Building the future, one line of code at a time."</i> 💻✨  
+</p>
