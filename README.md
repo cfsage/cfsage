@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" /> 
-  Hi there, I'm Biplove Yadav (@cfsage)
+  Hi there, I'm Sage
 </h1>
 
 <p align="center">
@@ -281,12 +281,10 @@ AI-powered platform preserving bedtime stories across generations.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cfsage&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cfsage&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfsage&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cfsage&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="48%" />
 </p>
 
