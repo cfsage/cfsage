@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:yadavbiplove22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="tel:+9779816813344"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
-  <img src="https://img.shields.io/badge/Location-Kathmandu%2C%20Nepal-0077B5?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  <a href="mailto:yadavbiplove22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yadavbiplove22%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -229,19 +229,6 @@ Built a custom **AI-powered chatbot solution** for corporate customer support an
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" /> Education
-
-### University of Sunderland
-**BSc (Hons) Computer System Engineering** | 2023 - 2026  
-*Affiliated with International School of Management and Technology (ISMT), Nepal*
-
-**Relevant Coursework:** AI & Machine Learning, Network Security, Cloud Computing, Database Management, Software Engineering
-
-### Himalayan White House International College
-**High School - Science (Biology Stream)** | 2021 - 2023
-
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Certificate" width="25" /> Certifications
 
 ### Oracle Cloud Infrastructure (OCI)
@@ -361,12 +348,6 @@ I'm always open to collaborating on innovative projects, discussing AI research,
   <a href="mailto:yadavbiplove22@gmail.com">
     <img src="https://img.shields.io/badge/Email-yadavbiplove22%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <br>
-  <a href="tel:+9779816813344">
-    <img src="https://img.shields.io/badge/Phone-%2B977%209816813344-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-  </a>
-  <br>
-  <img src="https://img.shields.io/badge/Location-Kathmandu%2C%20Nepal%20🇳🇵-0077B5?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
 </p>
 
 ---
