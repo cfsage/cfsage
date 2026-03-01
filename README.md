@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=BSc+Computer+Systems+Engineering;AI+%26+Machine+Learning+Researcher;Cybersecurity+Specialist;Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
-  </a>
+  <img src="https://img.shields.io/badge/BSc_Computer_Systems_Engineering-36BCF7?style=for-the-badge&logoColor=white" alt="Degree" />
+  <img src="https://img.shields.io/badge/AI_%26_Machine_Learning_Researcher-36BCF7?style=for-the-badge&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/Cybersecurity_Specialist-36BCF7?style=for-the-badge&logoColor=white" alt="Security" />
 </p>
 
 [cite_start]I am a Full Stack Developer and AI Researcher with experience building end-to-end web applications and AI-powered platforms[cite: 6, 108]. [cite_start]I am currently a final-year student pursuing a BSc (Hons) in Computer System Engineering at the University of Sunderland[cite: 11, 12, 112].
@@ -13,8 +13,8 @@
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> About Me
-* [cite_start]🔭 I recently completed a 25-Day DeepSeek AI Challenge, developing and deploying 25 unique AI applications locally[cite: 51, 145]. [cite_start]I integrated n8n for workflow automation to connect LLMs to external APIs[cite: 52, 146].
-* [cite_start]💻 I build robust platforms using modern frameworks like Next.js and FastAPI[cite: 8]. [cite_start]I deploy these applications primarily on Oracle OCI[cite: 8].
+* [cite_start]🔭 I recently completed a 25-Day DeepSeek AI Challenge, developing and deploying 25 unique AI applications locally[cite: 45, 51, 141, 145]. [cite_start]I integrated n8n for workflow automation to connect LLMs to external APIs[cite: 52, 146].
+* [cite_start]💻 I build robust platforms using modern frameworks like Next.js and FastAPI[cite: 8, 126]. [cite_start]I deploy these applications primarily on Oracle OCI[cite: 8, 19, 119].
 * 🛡️ I gained hands-on experience as a Security Intern at Cube Technologies Pvt. [cite_start]Ltd.[cite: 29, 31, 130, 131]. [cite_start]I executed VAPT engagements across 200+ endpoints using Nmap, Nessus, and OpenVAS[cite: 34, 35, 135, 136]. [cite_start]I also conducted IS audits for 6 separate organizations[cite: 36, 137].
 * [cite_start]🎬 Previously, I worked as a Jr. Video Editor at ViewFinders Production[cite: 38, 39, 139]. [cite_start]I also spent time as a Web Developer and Graphics Designer at Mudita Store[cite: 42, 43, 139].
 * 🌍 I am currently planning to pursue a Master's degree in Germany after graduation.
@@ -23,7 +23,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" /> Featured Projects
 * [cite_start]**Memoria (Bedtime Stories Across Generations):** Developed a full-stack AI-powered platform to preserve and continue bedtime stories[cite: 65, 66, 160, 161]. [cite_start]Engineered a FastAPI backend with ChromaDB and a GPT-5 API to transcribe audio and analyze themes[cite: 67, 162]. [cite_start]Built the interactive frontend using Next.js, React, and Tailwind CSS[cite: 68, 163].
-* [cite_start]**Sankat Sanket:** Developed a real-time incident response platform using React, Node.js, and MongoDB[cite: 58, 60, 61, 152, 154, 155]. [cite_start]Engineered a core API to instantly alert responders based on geographic proximity[cite: 62, 157]. [cite_start]Secured a 3rd place win out of 10 teams in a 48-hour hackathon[cite: 64, 159].
+* [cite_start]**Sankat Sanket:** Developed a real-time incident response platform using React, Node.js, and MongoDB[cite: 58, 60, 61, 152, 154, 155]. [cite_start]Engineered a core API to instantly alert responders based on geographic proximity[cite: 62, 157]. [cite_start]Secured a 3rd place win out of 10 teams in a 48-hour hackathon[cite: 63, 64, 158, 159].
 * [cite_start]**RAG-Based Order Processing Chatbot:** Built a RAG chatbot to handle queries and automate order placement[cite: 54, 148]. [cite_start]Integrated semantic search using Qdrant and designed automated workflows in n8n[cite: 55, 56, 149, 150]. [cite_start]Implemented automation to send confirmed orders directly to sellers via triggers[cite: 57, 151].
 
 ---
@@ -56,8 +56,8 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" /> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cfsage&show_icons=true&theme=tokyonight&hide_border=true" alt="cfsage's GitHub stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=cfsage&theme=tokyonight&hide_border=true" alt="cfsage's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cfsage&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="cfsage's GitHub stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=cfsage&theme=tokyonight&hide_border=true&v=1" alt="cfsage's GitHub Streak" width="48%" />
 </div>
 
 <br>
