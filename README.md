@@ -15,12 +15,8 @@
   </a>
 </p>
 
----
-
-## 👋 Hi, I'm Biplove Yadav
 
 🎓 Final-Year **BSc (Hons) Computer Systems Engineering**  
-🏫 University of Sunderland (ISMT, Nepal)
 
 I build **production-ready AI systems, scalable web platforms, and secure cloud infrastructure**.
 
